@@ -1,0 +1,55 @@
+body {
+	background: #CCCCCC;
+}
+
+#nina{
+	width: 30%;
+	position: absolute;
+	top: 55%;
+	left: 70%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%)
+
+}
+
+
+.principal {
+	padding :30px;
+	width: 45%;
+
+}
+
+.titulo-principal{
+	padding-left: 20px;
+}
+
+.titulo-centralizado{
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+#missao{
+	font-size: 20px;
+}
+
+em strong {
+	color: red;
+}
+
+.itens{
+	font-style: italic;
+}
+
+.Sobreempreender {
+	background: #FFFFFF;
+	padding: 10px;
+}
+
+.nina_2 {
+	width: 25%;
+
+
+}
