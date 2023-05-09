@@ -50,7 +50,7 @@ em strong {
 
 }
 
-.nina_2 {
+.nina_falas {
 	position: absolute;
 	top: 130%;
 	right: 55%;
@@ -60,11 +60,3 @@ em strong {
 	width: 15%;
 }
 
-.nina_3 {
-	position: absolute;
-	top: 130%;
-	right: 55%;
-	bottom: 20%;
-	left: 50%;
-	margin: auto;
-	width: 15%;
