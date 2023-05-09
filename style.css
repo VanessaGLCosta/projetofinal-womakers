@@ -51,6 +51,14 @@ em strong {
 }
 
 #nina_falas {
-	width: 100%;
+	position: absolute;
+	top: 15%;
+	right: 55%;
+	bottom: 20%;
+	left: 60%;
+	margin: auto;
+	width: 30%;
+
+
 }
 
